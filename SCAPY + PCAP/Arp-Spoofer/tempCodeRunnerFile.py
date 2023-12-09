@@ -1,0 +1,1 @@
+htons, ntohs, socket, PF_PACKET, SOCK_RAW
